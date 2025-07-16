@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** with a focus on building modern and scal
 ---
 
 ## 🛠️ Tech Stack
-
+<p>
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,3 +31,4 @@ I'm a passionate **Software Developer** with a focus on building modern and scal
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+</p>
