@@ -1,7 +1,6 @@
-## Hi there, I'm Iyazuz Zidan 👋
+## Hi, I'm Iyazuz Zidan
 
-I'm a passionate **Software Developer** with a focus on building modern and scalable apps using **Flutter** for mobile and **Laravel** for backend development.
-
+I'm a passionate **Software Developer** with interest in UI Design, Mobile Development using **FLutter**, and also Backend Development using **Laravel**.
 🎯 Check out my portfolio: [Link Portofolio](https://portofolio-iyzidann.vercel.app)
 
 ---
