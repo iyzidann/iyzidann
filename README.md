@@ -2,7 +2,7 @@
 
 I'm a passionate **Software Developer** with a focus on building modern and scalable apps using **Flutter** for mobile and **Laravel** for backend development.
 
-🎯 Check out my portfolio: [PORTOFOLIO](https://portofolio-iyzidann.vercel.app)
+🎯 Check out my portfolio: [Link Portofolio](https://portofolio-iyzidann.vercel.app)
 
 ---
 
